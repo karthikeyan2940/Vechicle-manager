@@ -6,4 +6,8 @@ public class DiselEngine{
 	public void stop() {
 		system.out.println("Stop DiselEngine")
 	}
+	
+	public void makeSound() {
+		system.out.println("wooof")
+	}
 }
